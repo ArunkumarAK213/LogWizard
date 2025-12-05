@@ -108,7 +108,7 @@ For me, this was a very practical exercise in understanding how security monitor
 
 In future, I want to improve LogWizard by adding:
 
-Time-window detection (check last 10 minutes only)
+Time-window detection
 
 Sudo misuse detection
 
